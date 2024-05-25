@@ -28,3 +28,8 @@ We added following Features:
 - Acceleration to increase the challenge
 - High Score tracking
 - Power-ups
+
+# Team Members:
+- Sonu Gupta
+- Subash Nepune
+- Jayden Maxwell
