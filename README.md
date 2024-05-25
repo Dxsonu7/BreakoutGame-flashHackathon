@@ -9,18 +9,18 @@
 
 The goal was to create a playable version of the Wozniak's classic game Breakout.
 
-We added following Features:
+We built this game on pygames and added following features:
 
-1. Created the blocks
-1. Created the paddle, making it move with arrow keys. (look into pygame.key)
+1. Responsive UI blocks for Breakout Challenge.
+2. Paddle, making it move with arrow keys.
     - https://www.pygame.org/docs/ref/key.html
-1. Created the ball, getting it to bounce off of the walls.
-1. Checked for a collision and change block color, no reflection or destruction yet. (investigate pygame.Rect methods)
+3. Boucing ball, getting it to bounce off of the walls.
+4. Checked for a collision and change block color, no reflection or destruction yet. (investigate pygame.Rect methods)
     - https://www.pygame.org/docs/ref/rect.html
-1. Handled the ball's reflection on collision, against both paddle and blocks.
-1. Handled losing and winning.
+5. Handled the ball's reflection on collision, against both paddle and blocks.
+6. Handled losing and winning scenarios.
 
-## Bonus Features:
+## Bonus Features:s
 
 - Multiple lives
 - Sounds
