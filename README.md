@@ -20,7 +20,7 @@ We built this game on pygames and added following features:
 5. Handled the ball's reflection on collision, against both paddle and blocks.
 6. Handled losing and winning scenarios.
 
-## Bonus Features:s
+## Bonus Features:
 
 - Multiple lives
 - Sounds
