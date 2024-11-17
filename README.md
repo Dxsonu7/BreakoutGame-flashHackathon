@@ -23,7 +23,6 @@ We built this game on pygames and added following features:
 ## Bonus Features:
 
 - Multiple lives
-- Sounds
 - "Edges" of the paddle
 - Acceleration to increase the challenge
 - High Score tracking
